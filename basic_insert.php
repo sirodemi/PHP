@@ -1,5 +1,5 @@
 <?php
-//新しいデータベースの場合は、先にphpMyAdminの権限設定を実施すること
+//新しいデータベースの場合は、先にphpMyAdminの権限設定を有効にすること
 
 $user       = 'shiro';
 $password   = 'sunyou00';
